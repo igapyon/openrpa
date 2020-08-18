@@ -124,13 +124,13 @@
     <value>マウスをアニメーション化</value>
   </data>
   <data name="activity_animatemouse_help" xml:space="preserve">
-    <value>Visibly move the mouse, instead of instantly moving it to the destination</value>
+    <value>目的地にすぐに移動する代わりに、ビジュアルにマウスを移動</value>
   </data>
   <data name="activity_animatemove" xml:space="preserve">
     <value>移動をアニメーション化</value>
   </data>
   <data name="activity_animatemove_help" xml:space="preserve">
-    <value>Visibly move the window, instead of instantly moving it to the destination</value>
+    <value>目的地にすぐに移動する代わりに、ビジュアルにウィンドウを移動</value>
   </data>
   <data name="activity_blocking" xml:space="preserve">
     <value>ブロック</value>
@@ -193,10 +193,10 @@
     <value>検知器</value>
   </data>
   <data name="activity_detector_help" xml:space="preserve">
-    <value>Will wait for this detector to trigger, then the workflow will continue</value>
+    <value>検知器はこのトリガを待機し、トリガされるとワークフローを継続</value>
   </data>
   <data name="activity_detector_tooltip" xml:space="preserve">
-    <value>Puts workflow in idle mode, waiting on selected detector to trigger</value>
+    <value>ワークフローを待機モードに設定し、選択した検知器がトリガされるのを待機</value>
   </data>
   <data name="activity_displayname" xml:space="preserve">
     <value>表示名</value>
@@ -208,7 +208,7 @@
     <value>ダブルクリック</value>
   </data>
   <data name="activity_doubleclick_help" xml:space="preserve">
-    <value>Do a double click instead of single click</value>
+    <value>シングルクリックの代わりにダブルクリックする</value>
   </data>
   <data name="activity_drop_hint" xml:space="preserve">
     <value>アクティビティをドロップ</value>
@@ -217,7 +217,7 @@
     <value>期間</value>
   </data>
   <data name="activity_duration_help" xml:space="preserve">
-    <value>Will run for the duration</value>
+    <value>この期間だけ実行</value>
   </data>
   <data name="activity_element" xml:space="preserve">
     <value>要素</value>
@@ -241,7 +241,7 @@
     <value>Foreach DataRow</value>
   </data>
   <data name="activity_foreachdatarow_tooltip" xml:space="preserve">
-    <value>Enumerate through each row inside a DataTable</value>
+    <value>DataTable 内の各行を列挙</value>
   </data>
   <data name="activity_height" xml:space="preserve">
     <value>高さ</value>
@@ -337,7 +337,7 @@
     <value>セレクタを開く</value>
   </data>
   <data name="activity_postwait" xml:space="preserve">
-    <value>Post Wait</value>
+    <value>事後待機</value>
   </data>
   <data name="activity_postwait_help" xml:space="preserve">
     <value>Wait this amount of time, after doing the click, help full one applications that can be very slow to react on clicks</value>
@@ -460,7 +460,7 @@
     <value>Chrome</value>
   </data>
   <data name="clickpostwait" xml:space="preserve">
-    <value>Set Click PostWait</value>
+    <value>クリックを事後待機に設定</value>
   </data>
   <data name="copy" xml:space="preserve">
     <value>コピー</value>
@@ -469,7 +469,7 @@
     <value>ID をコピー</value>
   </data>
   <data name="copyrelativefilename" xml:space="preserve">
-    <value>Copy Relative Filename</value>
+    <value>相対ファイル名をコピー</value>
   </data>
   <data name="debug" xml:space="preserve">
     <value>デバッグ</value>
