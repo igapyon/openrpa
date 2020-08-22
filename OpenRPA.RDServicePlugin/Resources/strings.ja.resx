@@ -151,12 +151,12 @@
     <value>フリー RDP の使用</value>
   </data>
   <data name="plugin_windows_login" xml:space="preserve">
-    <value>Login Username</value>
+    <value>ログインユーザ名</value>
   </data>
   <data name="plugin_windows_password" xml:space="preserve">
-    <value>Windows Password</value>
+    <value>Windows パスワード</value>
   </data>
   <data name="plugin_windows_username" xml:space="preserve">
-    <value>Windows Username</value>
+    <value>Windows ユーザ名</value>
   </data>
 </root>
