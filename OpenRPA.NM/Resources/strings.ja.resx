@@ -118,97 +118,97 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="activity_click_to_view" xml:space="preserve">
-    <value>Double-click to view</value>
+    <value>ダブルクリックで表示</value>
   </data>
   <data name="activity_closetab" xml:space="preserve">
-    <value>Close Tab</value>
+    <value>タブを閉じる</value>
   </data>
   <data name="activity_closetab_tooltip" xml:space="preserve">
     <value>Close the current tab, or close all tabs</value>
   </data>
   <data name="activity_executescript" xml:space="preserve">
-    <value>Execute Script</value>
+    <value>スクリプトを実行</value>
   </data>
   <data name="activity_executescript_tooltip" xml:space="preserve">
     <value>Execute script in the browser, targeting current tab and default frame</value>
   </data>
   <data name="activity_getelement" xml:space="preserve">
-    <value>Get Element</value>
+    <value>要素を取得</value>
   </data>
   <data name="activity_getelement_drop_hint" xml:space="preserve">
-    <value>Drop activity</value>
+    <value>アクティビティをドロップ</value>
   </data>
   <data name="activity_getelement_highlight" xml:space="preserve">
-    <value>Highlight</value>
+    <value>ハイライト</value>
   </data>
   <data name="activity_getelement_loopaction" xml:space="preserve">
-    <value>Loop action</value>
+    <value>アクションをループ</value>
   </data>
   <data name="activity_getelement_loopaction_tooltop" xml:space="preserve">
     <value>Do this, once done processing each result, then reruns the selector and looks for new items</value>
   </data>
   <data name="activity_getelement_open_selector" xml:space="preserve">
-    <value>Open Selector</value>
+    <value>セレクタを開く</value>
   </data>
   <data name="activity_getelement_tooltip" xml:space="preserve">
     <value>Find an browser element based on selector</value>
   </data>
   <data name="activity_openurl" xml:space="preserve">
-    <value>Open URL</value>
+    <value>URL を開く</value>
   </data>
   <data name="activity_openurl_getcurrent" xml:space="preserve">
-    <value>Get current</value>
+    <value>カレントを取得</value>
   </data>
   <data name="activity_openurl_tooltip" xml:space="preserve">
     <value>Open the specefied url in the selected browser</value>
   </data>
   <data name="activity_open_editor" xml:space="preserve">
-    <value>Open Editor</value>
+    <value>エディタを開く</value>
   </data>
   <data name="activity_waitfordownload" xml:space="preserve">
-    <value>Wait For Download</value>
+    <value>ダウンロードを待機</value>
   </data>
   <data name="activity_waitfordownload_tooltip" xml:space="preserve">
     <value>Waits for a download to complete in a nm supported browser</value>
   </data>
   <data name="activity_waitforready" xml:space="preserve">
-    <value>Wait for ready</value>
+    <value>準備状態を待機</value>
   </data>
   <data name="activity_waitforready_help" xml:space="preserve">
     <value>Wait for page page to be ready / is not loading</value>
   </data>
   <data name="compensate_for_old_addon" xml:space="preserve">
-    <value>Compensate for old extension</value>
+    <value>古い拡張を補う</value>
   </data>
   <data name="compensate_for_old_addon_help" xml:space="preserve">
     <value>Add pixel compensation for old add</value>
   </data>
   <data name="debug_console_output" xml:space="preserve">
-    <value>Debug Console</value>
+    <value>デバッグ・コンソール</value>
   </data>
   <data name="debug_console_output_help" xml:space="preserve">
     <value>Write debug informtation to browser console</value>
   </data>
   <data name="plugin_wait_for_tab_after_set_value" xml:space="preserve">
-    <value>Wait after set value</value>
+    <value>値の設定後に待機</value>
   </data>
   <data name="plugin_wait_for_tab_after_set_value_help" xml:space="preserve">
     <value>Wait for tab status to be in ready state after setting a value</value>
   </data>
   <data name="register_old_portname" xml:space="preserve">
-    <value>register old portname</value>
+    <value>古いポート名を登録</value>
   </data>
   <data name="register_old_portname_help" xml:space="preserve">
     <value>Register old browser extension port names </value>
   </data>
   <data name="unique_xpath_ids" xml:space="preserve">
-    <value>unique ids</value>
+    <value>ユニーク ids</value>
   </data>
   <data name="unique_xpath_ids_help" xml:space="preserve">
     <value>Use on of these attributes as unique id's when creating xpath selectors</value>
   </data>
   <data name="wait_for_tab_click" xml:space="preserve">
-    <value>wait for tab</value>
+    <value>タブを待機</value>
   </data>
   <data name="wait_for_tab_click_help" xml:space="preserve">
     <value>Wait for tab status to be in ready state after clicking a button</value>
