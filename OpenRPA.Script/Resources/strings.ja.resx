@@ -148,7 +148,7 @@
     <value>Install one or more python modules in the currently selected python envoriment</value>
   </data>
   <data name="plugin_csharp_intellisense" xml:space="preserve">
-    <value>C# インテリセンス</value>
+    <value>C# IntelliSense</value>
   </data>
   <data name="plugin_csharp_intellisense_help" xml:space="preserve">
     <value>Enable intellisense for C# scripts</value>
@@ -160,7 +160,7 @@
     <value>OpenRPA comes with python embedded, but will use the default system python if disabled</value>
   </data>
   <data name="plugin_vb_intellisense" xml:space="preserve">
-    <value>VB インテリセンス</value>
+    <value>VB IntelliSense</value>
   </data>
   <data name="plugin_vb_intellisense_help" xml:space="preserve">
     <value>Enable intellisense for Visual Basic scripts</value>
