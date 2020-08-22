@@ -118,28 +118,28 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="activity_click_to_view" xml:space="preserve">
-    <value>Double-click to view</value>
+    <value>ダブルクリックで表示</value>
   </data>
   <data name="activity_invokecode" xml:space="preserve">
-    <value>Invoke Code</value>
+    <value>コードを実行</value>
   </data>
   <data name="activity_invokecode_tooltip" xml:space="preserve">
     <value>Invoke code written in one of several languages</value>
   </data>
   <data name="activity_open_editor" xml:space="preserve">
-    <value>Open Editor</value>
+    <value>エディタを開く</value>
   </data>
   <data name="activity_pipinstall" xml:space="preserve">
     <value>Pip Install</value>
   </data>
   <data name="activity_pipinstall_force" xml:space="preserve">
-    <value>Force</value>
+    <value>強行</value>
   </data>
   <data name="activity_pipinstall_force_help" xml:space="preserve">
     <value>Force reinstall of module if already exists</value>
   </data>
   <data name="activity_pipinstall_modules" xml:space="preserve">
-    <value>Modules</value>
+    <value>モジュール</value>
   </data>
   <data name="activity_pipinstall_modules_help" xml:space="preserve">
     <value>List of python modules to install</value>
@@ -148,19 +148,19 @@
     <value>Install one or more python modules in the currently selected python envoriment</value>
   </data>
   <data name="plugin_csharp_intellisense" xml:space="preserve">
-    <value>C# Intellisense</value>
+    <value>C# インテリセンス</value>
   </data>
   <data name="plugin_csharp_intellisense_help" xml:space="preserve">
     <value>Enable intellisense for C# scripts</value>
   </data>
   <data name="plugin_use_embedded_python" xml:space="preserve">
-    <value>Use embedded python</value>
+    <value>埋込 python を使用</value>
   </data>
   <data name="plugin_use_embedded_python_help" xml:space="preserve">
     <value>OpenRPA comes with python embedded, but will use the default system python if disabled</value>
   </data>
   <data name="plugin_vb_intellisense" xml:space="preserve">
-    <value>VB Intellisense</value>
+    <value>VB インテリセンス</value>
   </data>
   <data name="plugin_vb_intellisense_help" xml:space="preserve">
     <value>Enable intellisense for Visual Basic scripts</value>
