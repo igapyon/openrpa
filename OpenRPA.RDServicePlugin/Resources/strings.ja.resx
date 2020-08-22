@@ -118,37 +118,37 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="plugin_auto_signout" xml:space="preserve">
-    <value>Auto Signout</value>
+    <value>自動サインアウト</value>
   </data>
   <data name="plugin_button_add_user" xml:space="preserve">
-    <value>Add current user</value>
+    <value>カレントユーザを追加</value>
   </data>
   <data name="plugin_button_install_service" xml:space="preserve">
-    <value>Install Service</value>
+    <value>サービスをインストール</value>
   </data>
   <data name="plugin_button_reauth" xml:space="preserve">
-    <value>Reauthenticate Service</value>
+    <value>サービスを再認証</value>
   </data>
   <data name="plugin_button_remove_user" xml:space="preserve">
-    <value>Remove current user</value>
+    <value>カレントユーザを除去</value>
   </data>
   <data name="plugin_button_start_service" xml:space="preserve">
-    <value>Start Service</value>
+    <value>サービスを開始</value>
   </data>
   <data name="plugin_button_stop_service" xml:space="preserve">
-    <value>Stop Service</value>
+    <value>サービスを停止</value>
   </data>
   <data name="plugin_button_uninstall_service" xml:space="preserve">
-    <value>Uninstall Service</value>
+    <value>サービスをアンインストール</value>
   </data>
   <data name="plugin_executable" xml:space="preserve">
-    <value>Executable</value>
+    <value>実行可能</value>
   </data>
   <data name="plugin_reload_interval" xml:space="preserve">
-    <value>Reload interval</value>
+    <value>再読込の間隔</value>
   </data>
   <data name="plugin_use_free_rdp" xml:space="preserve">
-    <value>Use Free RDP</value>
+    <value>フリー RDP の使用</value>
   </data>
   <data name="plugin_windows_login" xml:space="preserve">
     <value>Login Username</value>
