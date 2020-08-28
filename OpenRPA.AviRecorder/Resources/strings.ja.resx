@@ -151,7 +151,7 @@
     <value>コーデック</value>
   </data>
   <data name="plugin_enabled" xml:space="preserve">
-    <value>有効化</value>
+    <value>有効</value>
   </data>
   <data name="plugin_keep_successful" xml:space="preserve">
     <value>成功を維持</value>
