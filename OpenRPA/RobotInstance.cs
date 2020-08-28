@@ -578,6 +578,8 @@ namespace OpenRPA
         {
             Log.FunctionIndent("RobotInstance", "init");
             SetStatus("Checking for updates");
+            Config.Save();
+            SetStatus("Checking for updates");
             _ = CheckForUpdatesAsync();
             try
             {
@@ -1067,7 +1069,13 @@ namespace OpenRPA
                             {
                                 RunningCount++;
                             }
-                            if (!Config.local.remote_allow_multiple_running && RunningCount > 0)
+                            if (!Config.local.remote_allowed)
+                            {
+                                // Don't fail, just say busy and let the message expire
+                                // so if this was send to a robot in a role, another robot can pick this up.
+                                e.isBusy = true; return;
+                            }
+                            else if (!Config.local.remote_allow_multiple_running && RunningCount > 0)
                             {
                                 if (i.Workflow != null)
                                 {
