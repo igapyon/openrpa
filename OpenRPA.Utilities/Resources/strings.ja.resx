@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="activity_adddatarow_datatable" xml:space="preserve">
-    <value>挿入先の DataTable</value>
+    <value>挿入 DataTable</value>
   </data>
   <data name="activity_converter_datatable" xml:space="preserve">
     <value>Datatable</value>
@@ -139,7 +139,7 @@
     <value>行</value>
   </data>
   <data name="activity_downloadfile_hint" xml:space="preserve">
-    <value>Save into this folder</value>
+    <value>このフォルダに保存</value>
   </data>
   <data name="activity_drop_hint" xml:space="preserve">
     <value>アクティビティをドロップ</value>
@@ -160,7 +160,7 @@
     <value>新規 DataTable 変数</value>
   </data>
   <data name="activity_readexcel_hint" xml:space="preserve">
-    <value>Select excel file to read</value>
+    <value>読込 Excel ファイルを選択</value>
   </data>
   <data name="activity_readjson_hint" xml:space="preserve">
     <value>読込 JSON ファイルを選択</value>
@@ -169,7 +169,7 @@
     <value>読込 PDF ファイルを選択</value>
   </data>
   <data name="activity_selectfolder_hint" xml:space="preserve">
-    <value>選択フォルダ</value>
+    <value>選択したフォルダ</value>
   </data>
   <data name="activity_startprocess_arguments_hint" xml:space="preserve">
     <value>Arguments to be parsed the the executable</value>
@@ -178,9 +178,9 @@
     <value>The full filename and path to the executable to start</value>
   </data>
   <data name="activity_writecsv_hint" xml:space="preserve">
-    <value>Select CSV file to write to</value>
+    <value>書込 CSV ファイルを選択</value>
   </data>
   <data name="activity_writeexcel_hint" xml:space="preserve">
-    <value>Select excel file to write to</value>
+    <value>書込 Excel ファイルを選択</value>
   </data>
 </root>
