@@ -124,10 +124,10 @@
     <value>変更をキャンセルしてセレクタウィンドウを閉じる</value>
   </data>
   <data name="selector_buttons_highlight" xml:space="preserve">
-    <value>ハイライト</value>
+    <value>強調</value>
   </data>
   <data name="selector_buttons_highlight_hint" xml:space="preserve">
-    <value>カレントセレクタの影響を受ける要素をハイライト</value>
+    <value>カレントセレクタの影響を受ける要素を強調</value>
   </data>
   <data name="selector_buttons_ok" xml:space="preserve">
     <value>OK</value>
